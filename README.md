@@ -1,2 +1,2 @@
 # Text-to-Speech-code
-Project based on text and speech
+Project based on converting text to speech using python
